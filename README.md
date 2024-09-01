@@ -1,5 +1,5 @@
 <p>
-  Gustavo Goularte Pinheiro
+   Gustavo Goularte Pinheiro
 </p> 
 
  ##### Um estudante da Engenharia de Software em formação. Atualmente cursando o 4° semestre e com previsão de conclusão para o final de 2026. Com meus 18 anos, estou mergulhando no mundo da programação Java, tanto por meio da minha graduação quanto através de cursos adicionais. Ansioso para aprender e crescer na área de desenvolvimento de software
@@ -26,19 +26,7 @@
 
  ### Programming Languages 
  <p align='left'><a><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
- 
- ---
 
-
- ### Frontend Development 
- <p align='left'><a><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
- 
- ---
-
-
- ### Backend Development 
- <p align='left'><a><img height="30" width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
- 
  ---
 
 
