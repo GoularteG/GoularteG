@@ -2,7 +2,7 @@
    Gustavo Goularte Pinheiro
 </p> 
 
- ##### Um estudante da Engenharia de Software em formação. Atualmente cursando o 4° semestre e com previsão de conclusão para o final de 2026. Com meus 18 anos, estou mergulhando no mundo da programação Java, tanto por meio da minha graduação quanto através de cursos adicionais. Ansioso para aprender e crescer na área de desenvolvimento de software
+ ##### Um estudante da Engenharia de Software em formação. Atualmente cursando o 4° semestre e com previsão de conclusão para o final de 2026. Com meus 19 anos, estou mergulhando no mundo da programação Java, tanto por meio da minha graduação quanto através de cursos adicionais. Ansioso para aprender e crescer na área de desenvolvimento de software
 
  - 📫 Como me contactar goulartegustavo20@gmail.com
  
@@ -24,16 +24,5 @@
  ---
 
 
- ### Programming Languages 
- <p align='left'><a><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-
- ---
-
-
- ### Database 
- <p align='left'><a><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
  
- ---
-
-
 
